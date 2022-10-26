@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<templates id="template" xml:space="preserve">
+
+    <t t-name="checksum_interface">
+        <!-- <div><h1>EAN-13 Barcode Generator</h1></div>
+        <div><input type="text" id="barcode"></div>
+        <div><button id="generate_code">Generate</button></div>
+        <div><span id="out_code"></span></div> -->
+    </t>
+
+</templates>
